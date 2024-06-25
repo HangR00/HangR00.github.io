@@ -168,7 +168,7 @@ I am also very interested in robot manipulation and robot locomotion.
 # 🏛️ Visiting Experience
 - **Institude for AI Industry Reasearch, Tsinghua University**
   - *2024.01-2024.03*, Intern Researcher, Beijing China
-  - Surpvised by [Guyue Zhou](https://air.tsinghua.edu.cn/info/1046/1199.htm)
+  - Surpvised by [Guyue Zhou](https://air.tsinghua.edu.cn/info/1046/1199.htm), [Lu Shi]
 
 
 <!-- <span class='anchor' id='-gzsx'></span>
