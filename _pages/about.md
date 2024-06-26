@@ -41,9 +41,9 @@ I am also very interested in robot manipulation and robot locomotion.
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Eduction
-- *2021.09 - 2025.06(expected)*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> **Huazhong University of Science and Technology **
+- *2021.09 - 2025.06(expected)*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> **Huazhong University of Science and Technology** 
   - B.E.(currently studying) in Electronic Information and Engingeering 
-- *2018.09 - 2021.06*, <a href="https://www.msannu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> **High School Attached to Northeast Normal University **
+- *2018.09 - 2021.06*, <a href="https://www.msannu.cn/"><img class="svg" src="/images/msannu.svg" width="23pt"></a> **High School Attached to Northeast Normal University** 
   - High School graduate
 <!-- - *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科 -->
  
@@ -172,12 +172,15 @@ I am also very interested in robot manipulation and robot locomotion.
 
 # 🏛️ Visiting Experience
 - **Institude for AI Industry Reasearch, Tsinghua University**
-  - *2024.01-2024.03*, Intern Researcher, Beijing China
-  - Surpvised by [Guyue Zhou](https://air.tsinghua.edu.cn/info/1046/1199.htm), [Lu Shi]
+  - *2024.01-2024.03*, Intern Researcher, Beijing, China
+  - Supervised by [Guyue Zhou](https://air.tsinghua.edu.cn/info/1046/1199.htm), [Lu Shi]
+  - *Topic: Reinforcement Learning for wheel-legged robot locomotion* 
 
 <span class='anchor' id='-ldjl'></span>
 # 🧑‍💼️ Leadership Experience
-- **Huazhong University of Science and Technology** [**Dian Group**](https://dian.org.cn/), Project Leader
+- **Huazhong University of Science and Technology**, [**Dian Group**](https://dian.org.cn/)
+  - *2024.03-Present*, Project Leader, Wuhan, China
+  - Responsible for project management and team member cultivation
 
 <!-- <span class='anchor' id='-gzsx'></span>
 
