@@ -168,7 +168,7 @@ I am also very interested in robot manipulation and robot locomotion.
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`   -->
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-visit'></span>
 
 # 🏛️ Visiting Experience
 - **Institude for AI Industry Reasearch, Tsinghua University**
