@@ -21,7 +21,7 @@ Hi! I am Jiahang Zhang, currently a 3rd-year undergraduate student majoring in E
 
 My research interests mainly focus on:
 - Robotics
-- learning based control
+- Learning based control
 - Embodied AI 
 
 I am also very interested in robot manipulation and robot locomotion.
