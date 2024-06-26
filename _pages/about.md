@@ -173,7 +173,7 @@ I am also very interested in robot manipulation and robot locomotion.
 <span class='anchor' id='-visit'></span>
 
 # 🏛️ Visiting Experience
-- **Institude for AI Industry Reasearch, Tsinghua University**
+- [**Institude for AI Industry Reasearch, Tsinghua University**](https://air.tsinghua.edu.cn/en/)
   - *2024.01-2024.03*, Intern Researcher, Beijing, China
   - Supervised by [Guyue Zhou](https://air.tsinghua.edu.cn/info/1046/1199.htm), [Lu Shi]
   - *Topic: Reinforcement Learning for wheel-legged robot locomotion* 
