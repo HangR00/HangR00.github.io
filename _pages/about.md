@@ -38,7 +38,7 @@ I am also very interested in robot manipulation and robot locomotion.
   
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-edu'></span>
 
 # 🎓 Eduction
 - *2021.09 - 2025.06(expected)*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> **Huazhong University of Science and Technology** 
@@ -47,7 +47,7 @@ I am also very interested in robot manipulation and robot locomotion.
   - High School graduate
 <!-- - *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科 -->
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-pub'></span>
 
 # 📝 Publictions
 <!-- 
@@ -159,14 +159,16 @@ I am also very interested in robot manipulation and robot locomotion.
 
 
 
-
+# 📢 News
+- 
 
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards
-<!-- - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`   -->
+
+- **2023.08, National First Prize,** [**China University Intelligent Robot Creative Competition**](https://www.robotcontest.cn/)
+- **2023.08, National First Prize,** [**National College Student Embedded Chip and System Design Competition**](http://www.socchina.net/)
+- **2023.08, National Seceond Prize,** [**RoboMaster University Championship(RMUC)**](https://www.robomaster.com/zh-CN/robo/rm?djifrom=nav)
 
 <span class='anchor' id='-visit'></span>
 
@@ -177,6 +179,7 @@ I am also very interested in robot manipulation and robot locomotion.
   - *Topic: Reinforcement Learning for wheel-legged robot locomotion* 
 
 <span class='anchor' id='-ldjl'></span>
+
 # 🧑‍💼️ Leadership Experience
 - **Huazhong University of Science and Technology**, [**Dian Group**](https://dian.org.cn/)
   - *2024.03-Present*, Project Leader, Wuhan, China
@@ -184,7 +187,5 @@ I am also very interested in robot manipulation and robot locomotion.
 
 <!-- <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
+# 💻 Project
+

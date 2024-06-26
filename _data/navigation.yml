@@ -4,10 +4,13 @@ main:
     url: "/#-about-me"
 
   - title: "Education"
-    url: "/#-xl"
+    url: "/#-edu"
 
   - title: "Experience"
     url: "/#-visit"
+
+  - title: "Publications"
+    url: "/#-pub"
 
   # - title: "论文专利"
   #   url: "/zh-cn/#-lwzl"
