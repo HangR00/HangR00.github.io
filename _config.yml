@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiahang Zhang"
+title                    : "张嘉航"
 description              : "3rd-year Undergraduate"
 repository               : "HangR00/HangR00.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiahang Zhang 张嘉航"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Jiahang Zhang"
+  avatar           : "images/me.jpg"
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan City, China"
   employer         : #"Hefei General Machinery Research Institute"

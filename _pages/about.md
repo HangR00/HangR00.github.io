@@ -185,7 +185,5 @@ I am also very interested in robot manipulation and robot locomotion.
   - *2024.03-Present*, Project Leader, Wuhan, China
   - Responsible for project management and team member cultivation
 
-<!-- <span class='anchor' id='-gzsx'></span>
 
-# 💻 Project
 
