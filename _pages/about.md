@@ -49,7 +49,7 @@ I am also very interested in robot manipulation and robot locomotion.
  
 <span class='anchor' id='-pub'></span>
 
-# 📝 Publictions
+# 📝 Publications
 <!-- 
 ### 英文
 ---
@@ -160,7 +160,7 @@ I am also very interested in robot manipulation and robot locomotion.
 
 
 # 📢 News
-- 
+- *2024.06* One paper is submitted to **RAL**!
 
 <span class='anchor' id='-ryjx'></span>
 
