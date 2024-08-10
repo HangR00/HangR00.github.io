@@ -12,6 +12,9 @@ main:
   - title: "Publications"
     url: "/#-pub"
 
+  - title: "Projects"
+    url: "/#-project"
+
   # - title: "论文专利"
   #   url: "/zh-cn/#-lwzl"
 

@@ -49,6 +49,10 @@ I am also very interested in robot manipulation and robot locomotion.
  
 <span class='anchor' id='-pub'></span>
 
+# 📢 News
+- *2024.06* One paper is submitted to **RAL**!
+
+
 # 📝 Publications
 <!-- 
 ### 英文
@@ -158,9 +162,22 @@ I am also very interested in robot manipulation and robot locomotion.
 
 
 
+<span class='anchor' id='-project'></span>
 
-# 📢 News
-- *2024.06* One paper is submitted to **RAL**!
+# 📐 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[[Full Video]](https://www.bilibili.com/video/BV12x4y1t7Sc/#reply230506699392)
+- Fully automated chemical experimental platform without human
+- Complete 16 chemical preparation processes
+- Programming Implementation of Six Basic Chemical Experiment Operations
+- Over 95% Success Rate
+
+</div>
+</div>
+
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -183,6 +200,7 @@ I am also very interested in robot manipulation and robot locomotion.
 # 🧑‍💼️ Leadership Experience
 - **Huazhong University of Science and Technology**, [**Dian Group**](https://dian.org.cn/)
   - *2024.03-Present*, Project Leader, Wuhan, China
+  - Responsible for the construction of an automatic chemical experiment platform based on dual robot arm manipulation
   - Responsible for project management and team member cultivation
 
 
