@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Jiahang Zhang, currently a 3rd-year undergraduate student majoring in Electronic Information and Engingeering at Huazhong University of Science and Technology(expected graduation in June 2025).
+Hi! I am Jiahang Zhang, currently a 4th-year undergraduate student majoring in Electronic Information and Engingeering at Huazhong University of Science and Technology(expected graduation in June 2025).
 
 My research interests mainly focus on:
 - Robotics
@@ -27,14 +27,6 @@ My research interests mainly focus on:
 I am also very interested in robot manipulation and robot locomotion.
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
-<!-- 我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发 -->
   
 
 
@@ -43,8 +35,8 @@ I am also very interested in robot manipulation and robot locomotion.
 # 🎓 Eduction
 - *2021.09 - 2025.06(expected)*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> **Huazhong University of Science and Technology** 
   - B.E.(currently studying) in Electronic Information and Engingeering 
-- *2018.09 - 2021.06*, <a href="https://www.msannu.cn/"><img class="svg" src="/images/msannu.svg" width="23pt"></a> **High School Attached to Northeast Normal University** 
-  - High School graduate
+<!-- - *2018.09 - 2021.06*, <a href="https://www.msannu.cn/"><img class="svg" src="/images/msannu.svg" width="23pt"></a> **High School Attached to Northeast Normal University** 
+  - High School graduate -->
 <!-- - *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科 -->
  
 <span class='anchor' id='-pub'></span>

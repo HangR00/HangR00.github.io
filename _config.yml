@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "张嘉航"
-description              : "3rd-year Undergraduate"
+description              : "4th-year Undergraduate"
 repository               : "HangR00/HangR00.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/hZhang1097134"
+  # twitter          : "https://x.com/hZhang1097134"
   vine             :
   weibo            :
   xing             :
