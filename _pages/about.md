@@ -169,6 +169,20 @@ I am also very interested in robot manipulation and robot locomotion.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/LQR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+
+- Using model-based control(LQR)
+- The control system is deployed in a lightweight embedded platform
+- Sim-to-Real Transfer Successfully
+- Based on [RoboMaster](https://www.robomaster.com/zh-CN/robo/rm?djifrom=nav) Project
+
+</div>
+</div>
+
+
+
 
 <span class='anchor' id='-ryjx'></span>
 
