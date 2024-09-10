@@ -177,7 +177,7 @@ I am also very interested in robot manipulation and robot locomotion.
 
 - Using model-based control(LQR)
 - The control system is deployed in a lightweight embedded platform
-- Sim-to-Real transfer successfully
+- Sim-to-Real transfer 
 - Based on [RoboMaster](https://www.robomaster.com/zh-CN/robo/rm?djifrom=nav) Project
 
 </div>
