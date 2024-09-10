@@ -177,7 +177,7 @@ I am also very interested in robot manipulation and robot locomotion.
 
 - Using model-based control(LQR)
 - The control system is deployed in a lightweight embedded platform
-- Sim-to-Real Transfer Successfully
+- Sim-to-Real transfer successfully
 - Based on [RoboMaster](https://www.robomaster.com/zh-CN/robo/rm?djifrom=nav) Project
 
 </div>
@@ -204,7 +204,7 @@ I am also very interested in robot manipulation and robot locomotion.
 
 <span class='anchor' id='-ldjl'></span>
 
-# 🧑‍💼️ Leadership Experience
+# 🧑‍💼️ Research Experience
 - **Huazhong University of Science and Technology**, [**Dian Group**](https://dian.org.cn/)
   - *2024.03-Present*, Project Leader, Wuhan, China
   - Responsible for the construction of an automatic chemical experiment platform based on dual robot arm manipulation
