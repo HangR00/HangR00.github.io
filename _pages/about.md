@@ -25,6 +25,8 @@ My research interests mainly focus on:
 - Embodied AI 
 
 I am also very interested in robot manipulation and robot locomotion.
+
+[![点击]（https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhangr00.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false）]（https://hits.seeyoufarm.com）
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
   
