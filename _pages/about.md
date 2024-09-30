@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Jiahang Zhang, currently a 4th-year undergraduate student majoring in Electronic Information and Engingeering at Huazhong University of Science and Technology(expected graduation in June 2025).
+Hi! I am Jiahang Zhang, currently a senior undergraduate student majoring in Electronic Information and Engingeering at Huazhong University of Science and Technology(expected graduation in June 2025).
 
 My research interests mainly focus on:
 - Robotics
-- Learning based control
 - Embodied AI 
 
-I am also very interested in robot manipulation and robot locomotion.
+I am also very interested in **robot manipulation** and **robot locomotion**.
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhangr00.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
@@ -42,7 +41,7 @@ I am also very interested in robot manipulation and robot locomotion.
 <span class='anchor' id='-pub'></span>
 
 # 📢 News
-<!-- - *2024.06* One paper is submitted to **RAL**! -->
+- *2024.09* One paper is submitted to **ICRA 2024**!
 
 
 # 📝 Publications
@@ -162,10 +161,10 @@ I am also very interested in robot manipulation and robot locomotion.
 <div class='paper-box-text' markdown="1"> 
 
 [[Full Video]](https://www.bilibili.com/video/BV12x4y1t7Sc/#reply230506699392)
-- Fully automated chemical experimental platform without human
-- Complete 16 chemical preparation processes
-- Programming Implementation of Six Basic Chemical Experiment Operations
-- Over 95% Success Rate
+- Dual robot arm collaboration without human intervention
+- 16 chemical preparation processes
+- Six basic chemical experiment manipution tasks
+- Over 95% success rate
 
 </div>
 </div>
@@ -209,5 +208,18 @@ I am also very interested in robot manipulation and robot locomotion.
   - Responsible for the construction of an automatic chemical experiment platform based on dual robot arm manipulation
   - Responsible for project management and team member cultivation
 
-
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+  <tbody>
+      <tr>
+          <td style="padding:0px">
+              <br>
+              <br>
+              <div>
+                  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=350&t=tt&d=Biz007_Pw8FVsAWycLRoKM_5XR_da9ccb8qGNbWVwnk&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+                  <!-- <a target="_top" href="http://clustrmaps.com/site/1acpn?utm_source=widget&amp;utm_campaign=widget_ctr" id="clustrmaps-widget-v2" class="clustrmaps-map-control" style="width: 300px;">
+-->                               </div>
+          </td>
+      </tr>
+  </tbody>
+</table>
 
