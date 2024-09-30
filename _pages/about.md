@@ -208,7 +208,7 @@ I am also very interested in **robot manipulation** and **robot locomotion**.
   - Responsible for the construction of an automatic chemical experiment platform based on dual robot arm manipulation
   - Responsible for project management and team member cultivation
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<table width="20%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tbody>
       <tr>
           <td style="padding:0px">
