@@ -215,7 +215,7 @@ I am also very interested in **robot manipulation** and **robot locomotion**.
               <br>
               <br>
               <div>
-                  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6BSzSFZb7Nts2fXjYsHIGArPqNB0JnlmrsyTM3VVGmg&cl=ffffff&w=a"></script>
+                  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=080808&w=350&t=tt&d=6BSzSFZb7Nts2fXjYsHIGArPqNB0JnlmrsyTM3VVGmg&cl=ffffff&w=a"></script>
                   <!-- <a target="_top" href="http://clustrmaps.com/site/1acpn?utm_source=widget&amp;utm_campaign=widget_ctr" id="clustrmaps-widget-v2" class="clustrmaps-map-control" style="width: 300px;">
 -->                               </div>
           </td>
