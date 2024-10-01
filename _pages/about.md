@@ -41,7 +41,7 @@ I am also very interested in **robot manipulation** and **robot locomotion**.
 <span class='anchor' id='-pub'></span>
 
 # 📢 News
-- *2024.09* One paper is submitted to **ICRA 2024**!
+- *2024.09* One paper is submitted to **ICRA 2025**!
 
 
 # 📝 Publications
