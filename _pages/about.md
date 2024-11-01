@@ -193,7 +193,7 @@ I am also very interested in **robot manipulation** and **robot locomotion**.
 <div class='paper-box'><div class='paper-box-image'><div></div></div>
 <div class='paper-box-text' markdown="1"> 
 
-[[Webosite Page]](https://robotics-docs.readthedocs.io/en/latest/index.html)
+[[Website Page]](https://robotics-docs.readthedocs.io/en/latest/index.html)
 - **Under construction**
 - Collated knowledge of many popular robotics directions
 - Share my thoughts and viewpoints about certain technics
