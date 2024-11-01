@@ -189,7 +189,7 @@ I am also very interested in **robot manipulation** and **robot locomotion**.
 
 </div>
 </div>
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div></div></div>
 <div class='paper-box-text' markdown="1"> 
 
@@ -200,7 +200,7 @@ I am also very interested in **robot manipulation** and **robot locomotion**.
 - Paper lists with different directions
 
 </div>
-</div>
+</div> -->
 
 
 <span class='anchor' id='-ryjx'></span>
