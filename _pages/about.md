@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Jiahang Zhang, currently a senior undergraduate student majoring in Electronic Information and Engingeering at Huazhong University of Science and Technology(expected graduation in June 2025).
+Hi! I am Jiahang Zhang, currently a senior undergraduate student majoring in Electronic Information and Engingeering at Huazhong University of Science and Technology(expected graduation in June 2025).I am also an incoming 25Fall PhD student in Zhejiang University. 
 
-My research interests mainly focus on:
-- Robotics
-- Embodied AI 
+My research interests mainly focus on robotics, especially on robot learning. I am also very interested in **robot manipulation** and **robot locomotion**.
 
-I am also very interested in **robot manipulation** and **robot locomotion**.
+Previously, I am working on automatic robot manipulation systems. We conducted an autonomous robotics system that enables dual robotics arms to do many chemistry experiments. Our Team successfully deployed the algorithm on the real robot through mathematical modeling based method and reinforcement learning based method.
+
+Currently, I am working for my Bachelor's degree project on locomotion in humanoid robots using reinforcement learning. My aim is to give the humanoid robot the full potential to traverse a complex and challenging terrains.
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhangr00.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
