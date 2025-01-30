@@ -19,11 +19,11 @@ redirect_from:
 
 Hi! I am Jiahang Zhang, currently a senior undergraduate student majoring in Electronic Information and Engingeering at [Huazhong University of Science and Technology](https://english.hust.edu.cn/)(expected graduation in June 2025).I am also an incoming 25Fall PhD student in [Zhejiang University](https://www.zju.edu.cn/english/). 
 
-My research interests mainly focus on robotics, especially on robot learning. I am also very interested in **robot manipulation** and **robot locomotion**.
+My research interests mainly focus on **robotics**, especially on **robot learning**. I am also very interested in **robot manipulation** and **robot locomotion**.
 
-Previously, I am working on automatic robot manipulation systems. We conducted an autonomous robotics system that enables dual robotics arms to do many chemistry experiments. Our team successfully deployed the algorithm on the real robot through mathematical modeling based method and reinforcement learning based method.
+Previously, I am working on automatic robot manipulation systems. We conducted an autonomous robotics system that enables dual robotics arms to do many chemistry experiments and makes contributions to laboratory automation. Our team successfully deployed the algorithm on the real robot through mathematical modeling based method and reinforcement learning based method.
 
-Currently, I am working for my Bachelor's degree project on locomotion in humanoid robots using reinforcement learning. My aim is to give the humanoid robot the full potential to traverse complex and challenging terrains.
+Currently, I am working for my Bachelor's degree project on learning-based humanoid locomotion. My aim is to give the humanoid robot the full potential to traverse complex and challenging terrains.
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhangr00.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
@@ -40,8 +40,8 @@ Currently, I am working for my Bachelor's degree project on locomotion in humano
  
 <span class='anchor' id='-pub'></span>
 
-# 📢 News
-- *2024.09* One paper is submitted to **ICRA 2025**!
+<!-- # 📢 News
+- *2024.09* One paper is submitted to **ICRA 2025**! -->
 
 
 # 📝 Publications
@@ -178,7 +178,7 @@ Currently, I am working for my Bachelor's degree project on locomotion in humano
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/LQR.gif' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='/images/LQR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 
@@ -188,7 +188,7 @@ Currently, I am working for my Bachelor's degree project on locomotion in humano
 - Based on [RoboMaster](https://www.robomaster.com/zh-CN/robo/rm?djifrom=nav) Project
 
 </div>
-</div>
+</div> -->
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -224,7 +224,7 @@ Currently, I am working for my Bachelor's degree project on locomotion in humano
 # 🧑‍💼️ Research Experience
 - **Huazhong University of Science and Technology**, [**Dian Group**](https://dian.org.cn/)
   - *2024.03-Present*, **Project Leader**, Wuhan, China
-  - Responsible for the construction of an automatic robot chemical experiment system based on dual robot arm manipulation
+  - Responsible for the laboratory automation system based on dual robot arm manipulation
   - Responsible for project management and team member cultivation
 
 <table width="20%" align="center" border="0" cellspacing="0" cellpadding="20">
