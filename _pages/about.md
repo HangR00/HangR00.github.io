@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Jiahang Zhang, currently a senior undergraduate student majoring in Electronic Information and Engingeering at [Huazhong University of Science and Technology](https://english.hust.edu.cn/)(expected graduation in June 2025).I am also an incoming 25Fall PhD student in [Zhejiang University](https://www.zju.edu.cn/english/). 
+Hi! I am Jiahang Zhang, currently a senior undergraduate student majoring in Electronic Information and Engingeering (Seed Class) at [Huazhong University of Science and Technology](https://english.hust.edu.cn/)(expected graduation in June 2025). I am also an incoming 25Fall PhD student in [Zhejiang University](https://www.zju.edu.cn/english/). 
 
 My research interests mainly focus on **robotics**, especially on **robot learning**. I am also very interested in **robot manipulation** and **robot locomotion**.
 
-Previously, I am working on automatic robot manipulation systems. We conducted an autonomous robotics system that enables dual robotics arms to do many chemistry experiments and makes contributions to laboratory automation. Our team successfully deployed the algorithm on the real robot through mathematical modeling based method and reinforcement learning based method.
+Previously, I was working on the project of automatic robot systems for laboratory automation , which is supported by National Key Program. Our team conducted an autonomous robotics system that enables dual robotics arms to do many chemistry experiments and makes contributions to laboratory automation. The algorithm is successfully deployed on the real-world robot and our final system has finished diverse chemistry experiments without human intervention.
 
 Currently, I am working for my Bachelor's degree project on learning-based humanoid locomotion. My aim is to give the humanoid robot the full potential to traverse complex and challenging terrains.
 
@@ -48,7 +48,7 @@ Currently, I am working for my Bachelor's degree project on learning-based human
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/robio.jpg' alt="sym" width="350pt"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	[Ziyuan Wang](https://WangZY233.github.io), Yefan Lin, Le Yuzhao, `Jiahang Zhang` and [Xiaojun Hei](https://scholar.google.cz/citations?user=x9vhdoIAAAAJ&hl=zh-CN&oi=ao), "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics(ROBIO 2024)
+-	[Ziyuan Wang](https://WangZY233.github.io), Yefan Lin, Leyu Zhao, `Jiahang Zhang` and [Xiaojun Hei](https://scholar.google.cz/citations?user=x9vhdoIAAAAJ&hl=zh-CN&oi=ao), "Deep Reinforcement Learning for Sim-to-Real Transfer in a Humanoid Robot Barista", The 2024 IEEE International Conference on Robotics and Biomimetics(ROBIO 2024)
 [[Website]](https://starletts.github.io/Ginger_Baristas.github.io/#)
 
 </div>
@@ -164,7 +164,7 @@ Currently, I am working for my Bachelor's degree project on learning-based human
 
 <span class='anchor' id='-project'></span>
 
-# 📐 Projects
+# 📐 Selected Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/chemistry.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -211,23 +211,31 @@ Currently, I am working for my Bachelor's degree project on learning-based human
 - **2023.08, National First Prize,** [**National College Student Embedded Chip and System Design Competition**](http://www.socchina.net/)
 - **2023.08, National Seceond Prize,** [**RoboMaster University Championship(RMUC)**](https://www.robomaster.com/zh-CN/robo/rm?djifrom=nav)
 
-<span class='anchor' id='-visit'></span>
+<!-- <span class='anchor' id='-visit'></span>
 
-# 🏛️ Visiting Experience
-- [**Institude for AI Industry Reasearch, Tsinghua University**](https://air.tsinghua.edu.cn/en/)
-  - *2024.01-2024.03*, Intern Researcher, Beijing, China
-  - Supervised by [Lu Shi](https://sites.google.com/view/lushi-personal/home?authuser=0)
-  - *Topic: Reinforcement Learning for wheel-legged robot locomotion* 
+# 🏛️ Visiting Experience -->
+
 
 <span class='anchor' id='-ldjl'></span>
 
-# 🧑‍💼️ Research Experience
-- **Huazhong University of Science and Technology**, [**Dian Group**](https://dian.org.cn/)
-  - *2024.03-Present*, **Project Leader**, Wuhan, China
-  - Responsible for the laboratory automation system based on dual robot arm manipulation
-  - Responsible for project management and team member cultivation
+# 🏛️ Research Experience
+- [**Langya Group**](https://www.hustlangya.fun/), **Huazhong University of Science and Technology**
+  - *2022.09-2023.09*, **RoboMaster Member**, Wuhan, China
+  - Research: model based balancing wheel robot locomotion
 
-<table width="20%" align="center" border="0" cellspacing="0" cellpadding="20">
+- [**Institude for AI Industry Reasearch**](https://air.tsinghua.edu.cn/en/), **Tsinghua University**
+  - *2024.01-2024.03*, Intern Researcher, Beijing, China
+  - Supervised by [Lu Shi](https://sites.google.com/view/lushi-personal/home?authuser=0)
+  - Research: learning based wheel-legged robot locomotion
+
+- [**Dian Group**](https://dian.org.cn/), **Huazhong University of Science and Technology**
+  - *2024.03-2025.03*, **Project Leader**, Wuhan, China
+  - Responsible for project management and team member cultivation
+  - Supervised by [Chengwei Zhang](http://english.eic.hust.edu.cn/info/1018/1272.htm)
+  - Research: laboratory automation system based on dual robot arm manipulation
+
+
+<table width="10%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tbody>
       <tr>
           <td style="padding:0px">
