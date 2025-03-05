@@ -231,7 +231,7 @@ Currently, I am working for my Bachelor's degree project on learning based human
 - [**Dian Group**](https://dian.org.cn/), **Huazhong University of Science and Technology**
   - *2024.03-2025.03*, **Project Leader**, Wuhan, China
   - Responsible for project management and team member cultivation
-  - Supervised by [Chengwei Zhang](http://english.eic.hust.edu.cn/info/1018/1272.htm)
+  - Supervised by [Guohui Zhong](http://english.eic.hust.edu.cn/info/1018/1264.htm) and [Chengwei Zhang](http://english.eic.hust.edu.cn/info/1018/1272.htm)
   - Research: laboratory automation system based on dual robot arm manipulation
 
 
