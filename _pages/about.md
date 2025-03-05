@@ -23,7 +23,7 @@ My research interests mainly focus on **robotics**, especially on **robot learni
 
 Previously, I was working on the project of automatic robot systems for laboratory automation , which is supported by National Key Program. Our team conducted an autonomous robotics system that enables dual robotics arms to do many chemistry experiments and makes contributions to laboratory automation. The algorithm is successfully deployed on the real-world robot and our final system has finished diverse chemistry experiments without human intervention.
 
-Currently, I am working for my Bachelor's degree project on learning-based humanoid locomotion. My aim is to give the humanoid robot the full potential to traverse complex and challenging terrains.
+Currently, I am working for my Bachelor's degree project on learning based humanoid locomotion. My aim is to give the humanoid robot the full potential to traverse complex and challenging terrains.
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhangr00.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
